@@ -1,0 +1,20 @@
+# C++ outputs (objects, precompiled, linked, executables etc..
+
+*.slo
+*.lo
+*.o
+*.obj
+*.gch
+*.pch
+*.so
+*.dylib
+*.dll
+*.lai
+*.la
+*.a
+*.lib
+*.exe
+*.app
+*.out
+
+.vscode/*
